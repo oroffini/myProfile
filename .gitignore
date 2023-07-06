@@ -1,0 +1,18 @@
+# Fichiers spécifiques au système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Dossiers spécifiques au système macOS
+__MACOSX/
+
+# Fichiers de sauvegarde créés par l'éditeur de texte macOS
+*.swp
+*~.nib
+*.swp
+*.swo
+*.swn
+*.swpx
+*.swx
+*.swpx
+*.swf
